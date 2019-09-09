@@ -4,6 +4,6 @@ public class Test
 {
     public Test()
     {
-        Console.WriteLine("Message 2");
+        Console.WriteLine("Message 3");
     }
 }
